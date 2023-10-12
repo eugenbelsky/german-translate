@@ -41,3 +41,62 @@
 | die Startchance, -n  | стартова можливість              | starting opportunity                | Jeder sollte gleiche Startchancen im Leben haben.        |
 | überfordern          | перевантажувати                  | overwhelm                           | Es ist wichtig, Kinder nicht zu überfordern.             |
 | unterfordern         | недостатньо вимагати             | underchallenge                      | Das Training war so leicht, dass es ihn unterforderte.   |
+das Vorbild, -er    | приклад; зразок                | role model                                        | Sie ist ein Vorbild für viele junge Sportler.            |
+
+## Modul 3
+
+| German               | Ukrainian                        | English                             | Example (in German)                                      |
+|----------------------|----------------------------------|-------------------------------------|----------------------------------------------------------|
+| der Anspruch, -¨e   | вимога; претензія              | claim; demand                                      | Die Kunden haben hohe Ansprüche an das Produkt.          |
+| die Basis           | база; основа                   | base; foundation                                  | Vertrauen ist die Basis jeder guten Beziehung.           |
+| belanglos            | незначущий                    | insignificant                                      | Das Gespräch war belanglos und oberflächlich.            |
+| genießen (genießt, genoss, hat genossen) | насолоджуватися | enjoy               | Sie genießt die Stille der Natur.                        |
+| das Geschäftsleben  | бізнес-життя                   | business life                                     | Das Geschäftsleben in der Stadt ist sehr hektisch.       |
+| der Gesprächsstoff  | тема для розмови               | topic of conversation                             | Über die Reise gibt es viel Gesprächsstoff.              |
+| die Leidenschaft, -en | пристрасть                  | passion                                           | Seine Leidenschaft ist die Musik.                        |
+| locker              | вільний; розслаблений          | casual; relaxed                                   | Er hat eine lockere Art, die viele mögen.                |
+| nahe liegend        | очевидний                     | obvious                                           | Die Antwort war so nahe liegend.                         |
+| das Netzwerk, -e    | мережа                         | network                                           | Er hat ein großes berufliches Netzwerk.                  |
+| nichtssagend        | невиразний                    | meaningless; nondescript                          | Das Bild war eher nichtssagend.                          |
+| oberflächlich       | поверхневий                   | superficial                                       | Sie hat das Thema nur oberflächlich behandelt.           |
+| die Plauderei, -en  | балачка; пустослов'я           | chit-chat                                         | Nach der Arbeit gab es eine kurze Plauderei am Wasserspender.|
+| der Smalltalk, -s   | невимушена бесіда              | small talk                                        | Smalltalk kann helfen, das Eis zu brechen.               |
+| verkrampft          | напружений; скривлений       | tense; cramped                   | Seine Haltung wirkte verkrampft nach dem langen Meeting.     |
+
+## Modul 4
+
+| German                             | Ukrainian                             | English                                          | Example (in German)                                        |
+|------------------------------------|---------------------------------------|--------------------------------------------------|-----------------------------------------------------------|
+| anregend                           | стимулюючий                           | stimulating                                      | Die Diskussion war sehr anregend.                         |
+| ausnutzen                          | використовувати                       | exploit                                          | Man sollte andere Menschen nicht ausnutzen.               |
+| berücksichtigen                    | враховувати                           | take into account                                | Bitte berücksichtigen Sie die Anweisungen.                |
+| destruktiv                         | деструктивний                         | destructive                                      | Seine Kritik war destruktiv und nicht hilfreich.         |
+| die Erziehungsfrage, -n            | питання виховання                     | question of education                            | Die Erziehungsfrage spaltet oft die Meinungen der Eltern. |
+| die Gestaltung                     | оформлення; створення                 | design; creation                                 | Die Gestaltung des Raumes ist modern.                    |
+| harmonisch                         | гармонійний                           | harmonious                                       | Das Team arbeitet harmonisch zusammen.                   |
+| der Kompromiss, -e                 | компроміс                             | compromise                                       | Manchmal ist ein Kompromiss die beste Lösung.            |
+| die Konfliktlösung, -en            | вирішення конфлікту                   | conflict resolution                              | Eine gute Konfliktlösung ist wichtig für den Frieden.    |
+| konstruktiv                        | конструктивний                        | constructive                                     | Ihre Rückmeldungen waren immer konstruktiv.               |
+| der Verlauf, -¨e                   | перебіг                               | course; progression                              | Der Verlauf der Veranstaltung war positiv.               |
+| der Respekt                        | повага                                | respect                                          | Respekt ist die Basis für jede Kommunikation.            |
+| der Spielraum, -¨e                 | простір для маневру                   | leeway; scope                                    | Im Budget gibt es wenig Spielraum.                       |
+| die Unstimmigkeit, -en             | невідповідність; розбіжність          | discrepancy                                      | Es gab einige Unstimmigkeiten im Vertrag.                |
+| verletzen                          | поранити; образити                    | injure; hurt                                     | Sei vorsichtig, du könntest jemanden verletzen.          |
+| der Vorwurf, -¨e                   | звинувачення                          | accusation                                       | Der Vorwurf war unbegründet.                             |
+
+## Wichtige Wortverbindungen
+
+| German                                  | Ukrainian                           | English                                               | Example (in German)                                          |
+|-----------------------------------------|------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
+| die Augen verdrehen                     | закотити очима                      | roll one's eyes                                       | Immer wenn sie von Arbeit spricht, verdreht er die Augen.   |
+| etw. (nicht) auf die lange Bank schieben| (не) відкладати на потім            | (not) put something off for later                      | Wir sollten das nicht auf die lange Bank schieben.         |
+| auf den ersten Blick                    | на перший погляд                    | at first glance                                       | Auf den ersten Blick scheint es einfach zu sein.           |
+| mein Gegenüber                          | моя співрозмовниця (співрозмовник)  | my counterpart/opposite                               | Mein Gegenüber im Zug liest ein spannendes Buch.           |
+| Kritik austeilen                        | роздавати критику                   | dish out criticism                                    | Er kann gut Kritik austeilen, aber nimmt sie selbst schlecht an. |
+| Kritik einstecken                       | приймати критику                    | take criticism                                        | Sie kann Kritik gut einstecken.                             |
+| Kritik üben an                          | критикувати                         | criticize something                                   | Er übt ständig Kritik an meinen Entscheidungen.             |
+| sich lustig machen über                 | насміхатися над                     | make fun of                                           | Man sollte sich nicht lustig machen über andere.            |
+| auf Nummer sicher gehen                 | йти на впевнене                     | play it safe                                          | Bei solchen Entscheidungen gehe ich lieber auf Nummer sicher.|
+| Rücksicht nehmen auf                    | брати до уваги                      | have consideration for                                | Er nimmt immer Rücksicht auf die Gefühle anderer.           |
+| jmd. in die Schranken weisen            | поставити на місце                  | put someone in their place                            | Sie wies ihn in die Schranken, als er zu frech wurde.       |
+| um Verzeihung bitten für                | просити прощення за                 | ask forgiveness for                                   | Ich bitte um Verzeihung für mein spätes Erscheinen.         |
