@@ -35,3 +35,5 @@
 | unentbehrlich     | незамінний                       | indispensable                 | Wasser ist für das Leben unentbehrlich.                    |
 | die Bestechung        | хабар                            | bribery                       | Bestechung ist in vielen Ländern illegal.                  |
 | verzichten        | відмовлятися                     | to renounce, forgo            | Auf Schokolade zu verzichten ist schwer für mich.          |
+
+
