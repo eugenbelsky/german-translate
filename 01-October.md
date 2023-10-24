@@ -46,7 +46,7 @@
 | die Ansicht                     | думка, погляд                  | view, opinion                 | Das ist nur meine persönliche Ansicht.                                               |
 | die Auffassung                  | думка, погляд                  | perception, view              | Seine Auffassung zu diesem Thema ist interessant.                                    |
 | das Erachten                    | вважати                        | deem, regard                  | Nach meinem Erachten ist das nicht korrekt.                                          |
-| sich befasen                         | займатися                              | deal with                             | Ich möchte mich nicht mit diesem Thema befasen. context?                        |
+| sich befassen                         | займатися                              | deal with                             | Ich möchte mich nicht mit diesem Thema befassen. context?                        |
 | gegenseitig                     | взаємний                       | mutual                        | Sie respektieren sich gegenseitig.                                                   |
 | geschehen                       | статися                        | happen                        | Was ist hier geschehen?                                                              |
 | das Geschehen                   | подія                          | happening, event              | Das Geschehen wurde im Fernsehen übertragen.                                         |
