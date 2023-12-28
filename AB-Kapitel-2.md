@@ -1,4 +1,4 @@
-## Modul 1
+## Modul 1: Gesten sagen mehr als tausend Worte...
 
 | German              | Ukrainian                    | English                        | Example (in German)                                         |
 |---------------------|------------------------------|--------------------------------|-------------------------------------------------------------|
@@ -22,7 +22,7 @@
 | verraten (verrät, verriet, hat verraten) | зрадити; розкрити таємницю | betray; reveal a secret                           | Sie hat ihm das Geheimnis verraten.                       |         |
 | der Tonfall                     | інтонація                      | tone of voice                                    | Sein Tonfall verriet, dass er sauer war.                  |
 
-## Modul 2
+## Modul 2: Sprachen kinderleicht
 
 | German               | Ukrainian                        | English                             | Example (in German)                                      |
 |----------------------|----------------------------------|-------------------------------------|----------------------------------------------------------|
@@ -43,7 +43,7 @@
 | unterfordern         | недостатньо вимагати             | underchallenge                      | Das Training war so leicht, dass es ihn unterforderte.   |
 das Vorbild, -er    | приклад; зразок                | role model                                        | Sie ist ein Vorbild für viele junge Sportler.            |
 
-## Modul 3
+## Modul 3: Smalltalk
 
 | German               | Ukrainian                        | English                             | Example (in German)                                      |
 |----------------------|----------------------------------|-------------------------------------|----------------------------------------------------------|
@@ -63,7 +63,7 @@ das Vorbild, -er    | приклад; зразок                | role model  
 | der Smalltalk, -s   | невимушена бесіда              | small talk                                        | Smalltalk kann helfen, das Eis zu brechen.               |
 | verkrampft          | напружений; скривлений       | tense; cramped                   | Seine Haltung wirkte verkrampft nach dem langen Meeting.     |
 
-## Modul 4
+## Modul 4: Wenn zwei sich streiten
 
 | German                             | Ukrainian                             | English                                          | Example (in German)                                        |
 |------------------------------------|---------------------------------------|--------------------------------------------------|-----------------------------------------------------------|
