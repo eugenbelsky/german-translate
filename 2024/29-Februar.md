@@ -37,7 +37,7 @@
 | vorsehen           | передбачати             | to foresee, provide | Bitte sehen Sie vor, dass alle Mitarbeiter rechtzeitig informiert werden. |
 | kniffel arbeiten   | працювати наполегливо   | to work diligently   | Er kniffelte die ganze Nacht, um das Projekt abzuschließen. |
 | berufstätig        | зайнятий професійно    | employed             | Viele Menschen sind berufstätig und haben gleichzeitig Familienpflichten. |
-| Gestossen          | вразити                | to impress           | Ihr Fachwissen hat den Arbeitgeber bei dem Vorstellungsgespräch beeindruckt. |
+| gestossen          | вразити                | to impress           | Ihr Fachwissen ist den Arbeitgeber bei dem Vorstellungsgespräch gestossen. |
 | die Einrichtung    | установа, заклад        | institution          | Die Einrichtung bietet Unterstützung für Bedürftige.        |
 | die Minderheit     | меншисть               | minority             | Die Minderheit der Bevölkerung hat spezielle Bedürfnisse.  |
 | die Befragten      | опитані                | respondents          | Die Befragten äußerten unterschiedliche Meinungen zum Thema. |
