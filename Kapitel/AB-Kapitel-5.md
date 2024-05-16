@@ -1,4 +1,3 @@
-```markdown
 ## Modul 1: Wissenschaft für Kinder
 
 | German Word                | Ukrainian Translation        | English Translation     | German Example (B1/B2)                                         |
@@ -96,4 +95,4 @@
 | sich einen Vorteil verschaffen             | to gain an advantage               |
 | etw./jmd. aus dem Weg gehen (geht, ging, ist gegangen) | to avoid something/someone        |
 | die Weichen stellen für                    | to set the course for              |
-```
+
