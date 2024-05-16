@@ -87,3 +87,12 @@
 | zweitrangig                | другорядний                    | secondary                     | Diese Aufgabe ist momentan zweitrangig.                        |
 | vorrangig                  | першочерговий                  | priority                      | Die Sicherheit der Kinder hat vorrangig.                       |
 | der Teig                   | тісто                          | dough                         | Der Teig muss noch etwas ruhen, bevor er gebacken wird.        |
+| der Unterhalt                   | утримання                    | maintenance, support    | Er muss jeden Monat Unterhalt für seine Kinder zahlen.         |
+| der Alleinernährer              | єдиний годувальник            | sole breadwinner        | In vielen Familien ist die Mutter der Alleinernährer.          |
+| abweichen von etw.              | відхилятися від чогось       | to deviate from sth.    | Er neigt dazu, von den Regeln abzuweichen.                     |
+| die Erwerbsarbeit               | оплачувана робота             | gainful employment      | Erwerbsarbeit ist für viele Menschen die Hauptquelle des Einkommens. |
+| der Nachwuchs                   | молоде покоління              | offspring               | Der Verein fördert den sportlichen Nachwuchs.                  |
+| gefährdet                       | під загрозою                  | endangered              | Viele Tierarten sind durch den Klimawandel gefährdet.          |
+| die Vereinbarkeit               | сумісність                    | compatibility           | Die Vereinbarkeit von Beruf und Familie ist wichtig.           |
+| beurteilen                      | оцінювати                    | to assess, to judge     | Sie kann die Situation objektiv beurteilen.                    |
+| zurückhaltend                   | стриманий                     | reserved, cautious      | Er ist ein eher zurückhaltender Mensch.                        |
