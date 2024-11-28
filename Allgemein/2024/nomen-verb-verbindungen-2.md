@@ -1,0 +1,82 @@
+| Nomen-Verb-Verbindung                    | Verb / Bedeutung                             | Ukrainian Translation                        | German Example (B1/B2)                                        |
+|------------------------------------------|----------------------------------------------|----------------------------------------------|---------------------------------------------------------------|
+| Abläufe dokumentieren                    | Prozesse aufschreiben                        | Документувати процеси                        | Wir müssen die Abläufe im Unternehmen dokumentieren.         |
+| Abschied nehmen von (+ Dat.)             | sich verabschieden                           | Попрощатися                                   | Sie nahm tränenreich Abschied von ihren Freunden.            |
+| Abstand halten von (+ Dat.)              | entfernt bleiben                             | Триматися на відстані                         | Er hält Abstand von den gefährlichen Tieren.                 |
+| Anerkennung genießen                     | anerkannt sein                               | Користуватися визнанням                       | Er genießt große Anerkennung in seinem Beruf.                |
+| Angst machen (+ Dat.)                    | erschrecken                                  | Лякати когось                                  | Das Gewitter machte den Kindern Angst.                       |
+| Angst haben vor (+ Dat.)                 | sich fürchten                                | Боятися                                       | Sie hat Angst vor Spinnen.                                   |
+| Anstrengungen unternehmen für (+ Akk.)   | sich anstrengen                              | Докладати зусиль                              | Er unternimmt große Anstrengungen für sein Studium.          |
+| Arbeit erledigen                         | fertig arbeiten                              | Завершити роботу                              | Ich muss heute noch viel Arbeit erledigen.                   |
+| auf der Suche sein nach (+ Dat.)         | suchen                                       | Шукати                                        | Er ist auf der Suche nach einem neuen Job.                   |
+| aufs Spiel setzen (+ Akk.)               | riskieren                                    | Ризикувати                                    | Er setzte alles auf eine Karte und riskierte sein Vermögen.  |
+| aus dem Weg gehen (+ Dat.)               | meiden                                       | Уникати                                       | Er geht Konflikten lieber aus dem Weg.                       |
+| außer Frage stehen                       | selbstverständlich sein                       | Бути безсумнівним                              | Es steht außer Frage, dass wir helfen werden.                |
+| Beschäftigung finden in (+ Dat.)         | arbeiten                                     | Знайти заняття                                | Sie hat Beschäftigung in einer kleinen Firma gefunden.       |
+| Bescheid bekommen                        | informiert werden                            | Отримати повідомлення                         | Ich habe gestern Bescheid bekommen, dass ich den Job habe.   |
+| Bescheid geben (+ Dat.)                  | schriftlich/mündlich informieren             | Повідомити                                    | Bitte gib mir Bescheid, wenn du angekommen bist.             |
+| Bescheid sagen (+ Dat.)                  | mündlich informieren                         | Усно повідомити                               | Kannst du ihm Bescheid sagen, dass wir später kommen?        |
+| Bezug nehmen auf (+ Akk.)                | sich beziehen auf                            | Посилатися на                                 | In seiner Rede nahm er Bezug auf die aktuellen Ereignisse.   |
+| den Bedarf decken an (+ Dat.)            | gerecht werden                               | Задовольнити потребу                          | Wir müssen den Bedarf an medizinischer Versorgung decken.    |
+| den Umsatz steigern                      | mehr verkaufen                               | Збільшити обсяги продажів                     | Die Firma konnte ihren Umsatz im letzten Jahr steigern.      |
+| die Schuld geben an (+ Dat.)             | beschuldigen                                 | Звинувачувати                                 | Er gab ihr die Schuld an dem Unfall.                         |
+| ein Angebot ablehnen                     | zu etwas Nein sagen                          | Відхилити пропозицію                          | Sie hat das Angebot der Firma abgelehnt.                     |
+| ein Angebot annehmen                     | zu etwas Ja sagen                            | Прийняти пропозицію                           | Er nahm das Jobangebot an.                                   |
+| ein Gespräch führen mit (+ Dat.)         | sprechen                                     | Вести розмову                                 | Wir haben ein langes Gespräch mit dem Chef geführt.          |
+| ein gutes/schlechtes Leben führen        | gut/schlecht leben                           | Вести гарне/погане життя                      | Sie führt ein gutes Leben auf dem Land.                      |
+| ein Missverständnis klären               | aufklären/klarstellen                        | З'ясувати непорозуміння                       | Wir konnten das Missverständnis schnell klären.              |
+| ein Projekt abschließen                  | Arbeit fertigstellen                         | Завершити проект                              | Sie haben das Projekt erfolgreich abgeschlossen.             |
+| ein Recht haben auf (+ Akk.)             | berechtigt sein                              | Мати право                                    | Jeder hat ein Recht auf Bildung.                             |
+| ein Unternehmen leiten                   | eine Firma führen                            | Керувати компанією                            | Er leitet seit zehn Jahren das Unternehmen.                  |
+| ein Ziel erreichen                       | erfolgreich sein                             | Досягти мети                                  | Sie hat ihr Ziel, die Prüfung zu bestehen, erreicht.         |
+| ein Zimmer buchen                        | reservieren                                  | Забронювати кімнату                           | Wir haben ein Zimmer für das Wochenende gebucht.             |
+| eine Antwort geben                       | antworten                                    | Дати відповідь                                | Er konnte mir keine klare Antwort geben.                     |
+| eine Aufgabe übernehmen                  | sich kümmern um/verantwortlich sein          | Взяти на себе завдання                        | Sie hat die Aufgabe übernommen, das Event zu organisieren.   |
+| eine Ausbildung machen                   | einen Beruf lernen                           | Навчатися професії                            | Er macht eine Ausbildung zum Elektriker.                     |
+| eine Entscheidung treffen                | sich entscheiden                             | Прийняти рішення                              | Sie hat die Entscheidung getroffen, ins Ausland zu gehen.    |
+| eine Frage stellen                       | fragen                                       | Задати питання                                | Darf ich Ihnen eine Frage stellen?                           |
+| eine Idee haben                          | sich etwas ausdenken                         | Мати ідею                                     | Ich habe eine tolle Idee für das neue Projekt.               |
+| eine Information für sich behalten       | schweigen                                    | Тримати інформацію при собі                   | Er hat die Information für sich behalten.                    |
+| eine Prüfung ablegen                     | geprüft werden                               | Складати іспит                                | Sie muss nächste Woche eine wichtige Prüfung ablegen.        |
+| eine Rechnung stellen                    | berechnen                                    | Виставити рахунок                             | Der Handwerker hat uns eine Rechnung gestellt.               |
+| eine Rolle spielen für (+ Akk.)          | wichtig sein                                 | Відігравати роль                              | Bildung spielt eine wichtige Rolle für die persönliche Entwicklung. |
+| eine Straftat begehen                    | straffällig sein                             | Вчинити злочин                                | Der Mann hat eine schwere Straftat begangen.                 |
+| einen Antrag stellen bei (+ Dat.)        | beantragen                                   | Подати заяву                                  | Sie hat einen Antrag auf finanzielle Unterstützung gestellt. |
+| Maßnahmen ergreifen für (+ Akk.)         | etwas tun/tätig werden                       | Вжити заходів                                 | Die Regierung hat Maßnahmen ergriffen, um die Wirtschaft zu stabilisieren. |
+| Neugierde wecken für (+ Akk.)            | neugierig machen                             | Викликати цікавість                           | Das Buch weckt die Neugierde für fremde Kulturen.            |
+| Notizen machen                           | aufschreiben                                 | Робити нотатки                                | Während des Vortrags habe ich viele Notizen gemacht.         |
+| Opfer bringen                            | opfern                                       | Приносити жертву                              | Eltern bringen oft Opfer für ihre Kinder.                    |
+| Rat suchen bei (+ Dat.)                  | um Hilfe fragen                              | Шукати поради                                 | Sie hat bei ihrer Mutter Rat gesucht.                        |
+| Recht haben                              | sich nicht irren                             | Мати рацію                                    | Du hast Recht, das sollten wir anders machen.                |
+| Respekt haben vor (+ Dat.)               | respektieren                                 | Поважати                                      | Ich habe großen Respekt vor meiner Lehrerin.                 |
+| Rücksicht nehmen auf (+ Akk.)            | bedacht sein                                 | Бути уважним до                               | Wir sollten Rücksicht auf die älteren Menschen nehmen.       |
+| Ruhe bewahren                            | ruhig bleiben                                | Зберігати спокій                              | Auch in schwierigen Situationen sollte man Ruhe bewahren.    |
+| Schluss machen mit (+ Dat.)              | beenden                                      | Закінчувати                                   | Er hat Schluss mit seiner Freundin gemacht.                  |
+| Schwierigkeiten bereiten                 | Probleme machen                              | Спричиняти труднощі                           | Das neue System bereitet mir viele Schwierigkeiten.          |
+| sein Wort geben (+ Dat.)                 | versprechen                                  | Дати слово                                    | Er hat mir sein Wort gegeben, dass er pünktlich ist.         |
+| seine Hilfe anbieten (+ Dat.)            | gerne helfen                                 | Пропонувати допомогу                          | Sie hat ihm ihre Hilfe angeboten.                            |
+| sich Gedanken machen über (+ Dat.)       | nachdenken über                              | Замислитися над                               | Ich mache mir oft Gedanken über meine Zukunft.               |
+| sich Mühe geben bei (+ Dat.)             | sich bemühen                                 | Докладати зусиль                              | Er gibt sich viel Mühe bei seiner Arbeit.                    |
+| sich Sorgen machen über (+ Akk.)         | sich sorgen                                  | Турбуватися                                   | Sie macht sich Sorgen über die Gesundheit ihres Vaters.      |
+| Überstunden abbauen                      | weniger arbeiten                             | Скорочувати понаднормові години               | Ich möchte die Überstunden abbauen und mehr Freizeit haben.  |
+| Überstunden machen                       | mehr arbeiten                                | Працювати понаднормово                        | Diese Woche muss ich viele Überstunden machen.               |
+| um Erlaubnis fragen                      | bitten etwas tun zu dürfen                   | Попросити дозволу                             | Er hat um Erlaubnis gefragt, früher gehen zu dürfen.         |
+| Unterlagen erstellen                     | etwas schreiben/zusammensuchen               | Створювати документи                          | Sie muss noch die Unterlagen für das Meeting erstellen.      |
+| Verantwortung tragen für (+ Akk.)        | verantwortlich sein                          | Нести відповідальність                        | Er trägt die Verantwortung für das Projekt.                  |
+| Verantwortung übernehmen für (+ Akk.)    | die Konsequenzen tragen                      | Брати на себе відповідальність                | Sie hat die Verantwortung für das Team übernommen.           |
+| Verständnis haben für (+ Akk.)           | verstehen                                    | Мати розуміння                                | Er hat viel Verständnis für die Sorgen seiner Freunde.       |
+| Verständnis zeigen für (+ Akk.)          | verstehen                                    | Виявити розуміння                             | Sie zeigte großes Verständnis für die Situation.             |
+| Vertrauen genießen bei (+ Dat.)          | vertrauen                                    | Користуватися довірою                         | Der Politiker genießt Vertrauen bei der Bevölkerung.         |
+| Vertrauen missbrauchen                   | enttäuschen                                  | Зловживати довірою                            | Er hat ihr Vertrauen missbraucht, indem er gelogen hat.      |
+| Vorbereitungen treffen für (+ Akk.)      | vorbereiten                                  | Готуватися                                    | Wir treffen die Vorbereitungen für die Hochzeit.            |
+| Ware umtauschen                          | zurückgeben/wechseln                         | Обміняти товар                                | Ich möchte die Ware umtauschen, da sie beschädigt ist.       |
+| Zeit verlieren                           | Zeit vergeuden                               | Втрачати час                                  | Wir dürfen keine Zeit verlieren und müssen sofort anfangen. |
+| zu einem Ergebnis kommen                 | abschließen                                  | Дійти висновку                                | Wir sind zu dem Ergebnis gekommen, dass wir umziehen müssen.|
+| zu Ende bringen (+ Akk.)                 | beenden/fertig stellen                       | Закінчити                                     | Sie hat ihre Arbeit erfolgreich zu Ende gebracht.            |
+| zu Wort kommen                           | sprechen dürfen                              | Отримати можливість висловитися               | Er kam während der Diskussion kaum zu Wort.                  |
+| zum Abschluss bringen (+ Akk.)           | abschließen                                  | Завершити                                     | Wir müssen das Projekt bald zum Abschluss bringen.           |
+| zur Verfügung stehen für (+ Akk.)        | frei/verfügbar sein                          | Бути у розпорядженні                          | Das Auto steht dir jederzeit zur Verfügung.                  |
+| zur Ruhe kommen                          | ruhig werden                                 | Заспокоїтися                                  | Nach dem stressigen Tag konnte sie endlich zur Ruhe kommen.  |
+| zur Verantwortung ziehen für (+ Akk.)    | zurechtweisen/bestrafen                      | Притягнути до відповідальності                | Er wurde für seine Taten zur Verantwortung gezogen.          |
+| zur Verfügung stellen für (+ Akk.)       | bereitstellen                                | Надавати у розпорядження                      | Der Chef stellt die nötigen Ressourcen zur Verfügung.        |
+
